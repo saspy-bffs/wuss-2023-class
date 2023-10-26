@@ -10,7 +10,7 @@ Materials provided:
 
   - [Examples and Exercises](https://colab.research.google.com/drive/11Z3WSFhjKKdk1_gpnkecsp6JXH4o9m3M#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
 
-  <!-- - [Slides](slides/Slides-Git_HoT-PharmaSUG2023.pdf) as a PDF file -->
+  - [Slides](slides/Slides-Git_Class-WUSS2023.pdf) as a PDF file
 
 
 ## Setup Instructions & Prerequisites
